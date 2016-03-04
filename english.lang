@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OpenFolderAfterDownload>Open folder after Download?</OpenFolderAfterDownload>
+  <Paste>Paste</Paste>
+  <Download>Download</Download>
+  <VisitMyWebsite>Visit my website for more software</VisitMyWebsite>
+  <LicensedUnder>Licensed under the</LicensedUnder>
+  <SavePath>Save Path</SavePath>
+  <SaveOP>Save OP?</SaveOP>
+  <Save>Save</Save>
+  <Discard>Discard</Discard>
+  <Help>Help</Help>
+  <AnErrorOccurred>An error occurred!</AnErrorOccurred>
+  <Details>Details: </Details>
+  <OK>OK</OK>
+  <MsgFinishedDownloading>Finished downloading!</MsgFinishedDownloading>
+  <StsReady>Ready</StsReady>
+  <StsDownloading>Downloading...</StsDownloading>
+  <ExcURLDoesntMatchRegex>URL doesn't match RegEx!</ExcURLDoesntMatchRegex>
+  <Settings>Settings</Settings>
+  <_Language>Language</_Language>
+  <OpenSourceLicenses>Open-Source Licenses</OpenSourceLicenses>
+  <DownloadedThreads>Downloaded Threads: </DownloadedThreads>
+  <OP>OP</OP>
+  <Refresh>Refresh</Refresh>
+  <TotalFiles>Total Files: </TotalFiles>
+  <TotalSize>Total Size: </TotalSize>
+  <OpenFolder>Open folder</OpenFolder>
+  <OpenDownloadFolder>Open downloads folder</OpenDownloadFolder>
+  <InstallURLHandler>Install URL Handler</InstallURLHandler>
+  <UninstallURLHandler>Uninstall URL Handler</UninstallURLHandler>
+  
+</Language>
